@@ -1,1 +1,1 @@
-make sure to install the right dependencies, I made this for fun
+make sure to install the right dependencies, I made this for fun 😁
